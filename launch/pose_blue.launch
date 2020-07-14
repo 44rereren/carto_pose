@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="carto_pose" name="carto_pose_blue" type="carto_pose_blue" output="screen"/>
+</launch>
